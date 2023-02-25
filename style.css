@@ -102,6 +102,10 @@ hr {
   margin-top: 1rem;
 }
 
+.mb-half {
+  margin-bottom: 0.5rem;
+}
+
 .mr-half {
   margin-right: 0.5rem;
 }
